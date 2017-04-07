@@ -1,0 +1,6 @@
+[package]
+name = "biost"
+version = "0.0.1"
+authors = ["Suguru Kato <salmon.bioinformatics@gmail.com>"]
+
+[dependencies]
